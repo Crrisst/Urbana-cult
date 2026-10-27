@@ -1,0 +1,6 @@
+{
+  "name": "Urbana Cult - Plataforma de Eventos y Cultura Digital",
+  "description": "Plataforma SaaS multi-tenant para centros culturales y venta integrada de entradas en Mar del Plata, con inventario unificado, prevención de sobreventa y modo de contingencia física.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

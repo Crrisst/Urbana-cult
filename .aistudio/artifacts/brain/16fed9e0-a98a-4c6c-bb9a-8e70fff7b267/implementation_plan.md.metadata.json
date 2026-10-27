@@ -1,0 +1,6 @@
+{
+  "summary":  "Plan de implementación para el prototipo funcional de Urbana Cult (Plataforma de Eventos y Cultura Digital de Mar del Plata) cubriendo el ecosistema completo multi-rol, simulador de concurrencia web vs boletería, modo de contingencia offline con conciliación posterior, simulador de pagos con reservas temporales y módulo de salas de ensayo.",
+  "updatedAt":  "2026-10-27T22:40:00.040468743Z",
+  "requestFeedback":  true,
+  "userFacing":  true
+}
